@@ -5,6 +5,7 @@
 	</script>
 	<?php
 	
+	// mira que bien. Devuelve la fecha de hoy.
 	function hoy(&$d, &$m, &$a) {
 		$d = 9;
 		$m = 12;
