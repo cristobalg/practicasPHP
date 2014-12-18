@@ -8,6 +8,7 @@
 
 		<?php
 		
+			// saludando
 			function saludo($cadena){
 				$i = count($cadena);
 				for ($j = 0; $j < $i; $j++) {
